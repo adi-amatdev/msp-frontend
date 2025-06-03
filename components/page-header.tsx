@@ -21,7 +21,7 @@ export function PageHeader({ title, description, action }: PageHeaderProps) {
         <Button variant="ghost" size="sm" asChild className="font-medium">
           <Link href="/vendor-account" className="flex items-center gap-2">
             <UserCircleIcon className="h-5 w-5" />
-            <span>Vendor Account</span>
+            <span>Frontend team account</span>
           </Link>
         </Button>
       </div>
